@@ -11,15 +11,15 @@ body{
     width: 100%;
     height: 100vh;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     background: linear-gradient(45deg, #0a0909, #4d5a6c);
 }
 
 .calculator{
     border: 1px solid #717377;
     padding: 20px;
-    border-radius: 16px;
+    border-radius: 20px;
     background: transparent;
     box-shadow: 0px 3px 15px rgba(49, 109, 230, 0.5);
 
@@ -62,3 +62,10 @@ button{
 .operator{
     color: #e6ee0a;
 }
+
+.creator{
+    position: absolute;
+    color: rgb(255, 255, 0);
+    top: 90%;
+    left: 85%;
+  }
