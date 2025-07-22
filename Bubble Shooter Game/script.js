@@ -5,7 +5,8 @@ const scoredisplay = document.querySelector('#score');
 
 let lefttime = 10;
 let score = 0;
-let bubble_count = 100;
+let bubble_count = 84;
+
 const originaltime = 10 ;
 
 function createbubble() {
