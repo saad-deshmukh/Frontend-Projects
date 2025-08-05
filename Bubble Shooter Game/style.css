@@ -37,7 +37,7 @@ html, body {
     overflow-y: auto;
 }
 
-/* Appending after bubble */
+
 .append_container {
     display: flex;
     flex-direction: column;
@@ -77,7 +77,7 @@ html, body {
     color: rgb(26, 220, 26);
 }
 
-/* Fixed Reset Button */
+
  button {
     padding: 0.8rem 2rem;
     background-color: crimson;
